@@ -24,7 +24,7 @@ text str: data['TextFrontside'],
 	font: 'Sans 60',
 	width: 580, height: 700,
   ellipsize: :autoscale,
-	x: 130,	y: 200,
+	x: 130,	y: 200
   # hint: :red  #draws a red line around the text box
 	
 text str: 'Honest Meeting Cards 1.1 / @UdoWiegaertner / CC BY NC SA',
