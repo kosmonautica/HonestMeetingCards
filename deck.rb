@@ -12,9 +12,10 @@ frontsides = Squib::Deck.new cards: 20, layout: layouts do
     rect layout: 'cut' # cut line as defined by TheGameCrafter
     rect layout: 'safe' # safe zone as defined by TheGameCrafter
   
-  
+# card number in upper left corner
  text str: data['CardNumber'],
 	color: 'black',
+  font: 'Sans 8',
 	x: 100,
 	y: 100
 	
