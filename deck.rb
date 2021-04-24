@@ -21,12 +21,13 @@ frontsides = Squib::Deck.new cards: 20, layout: layouts do
 
 text str: data['TextFrontside'],
 	color: 'black',
-	font: 'Sans 30',
-	width: 650, height: 800,
+	font: 'Sans 60',
+	width: 580, height: 700,
   ellipsize: :autoscale,
-	x: 100,	y: 200
+	x: 130,	y: 200,
+  # hint: :red  #draws a red line around the text box
 	
-text str: 'Honest Meeting Cards 1.0 / @UdoWiegaertner / CC BY NC SA',
+text str: 'Honest Meeting Cards 1.1 / @UdoWiegaertner / CC BY NC SA',
 	color: 'black',
 	font: 'Sans 5',
   x: 100,
