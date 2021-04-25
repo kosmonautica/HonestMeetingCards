@@ -28,7 +28,7 @@ text str: data['TextFrontside'],
 	x: 130,	y: 200
   # hint: :red  #draws a red line around the text box
 	
-text str: 'Honest Meeting Cards 1.1 / @UdoWiegaertner / CC BY NC SA',
+text str: 'Honest Meeting Cards 1.2 / @UdoWiegaertner / CC BY NC SA',
 	color: 'black',
 	font: 'Sans 5',
   x: 100,
