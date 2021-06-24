@@ -20,6 +20,9 @@ Am I serious? Not really. Decide for yourself whether you want to use the **Hone
 
 I had a lot of fun thinking about honest statements and already used my first prototype cards in real meetings. It was always a lot of fun - but my colleagues are great and using the cards was easy.
 
+<img src="cardprintout01.jpeg" width="350">
+<img src="cardprintout02.jpeg" width="350">
+
 ## Download
 The PDF(s) for self-printing can be found in the folder [./_output](https://github.com/kosmonautica/HonestMeetingCards/tree/master/_output). Just download it.
 
