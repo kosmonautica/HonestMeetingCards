@@ -4,6 +4,7 @@
 The Honest Meeting Cards are a deck of paper cards for self printing/cutting.
 
 
+
 ## Purpose of the Honest Meeting Cards
 If printed and cut, a card can be hold in front of the webcam during a video meeting to communicate a very honest statement without saying a word.
 
